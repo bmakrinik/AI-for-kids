@@ -2,6 +2,10 @@
 
 **Age:** 4–8 (with a parent) · **Time:** 15–30 minutes · **Difficulty:** Beginner
 
+**[Play Monster Guess Who online](https://bmakrinik.github.io/AI-for-kids/task-02-monster-guess-who/)**
+
+*The online game requires GitHub Pages to be enabled and deployed.*
+
 ## Goal
 
 Play a monster-themed Guess Who game against a computer-selected secret character. Children ask yes/no questions about visible features, cross out monsters, and guess the answer.
