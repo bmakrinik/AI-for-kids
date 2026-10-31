@@ -4,6 +4,8 @@
 
 **[Play Monster Guess Who online](https://bmakrinik.github.io/AI-for-kids/task-02-monster-guess-who/)**
 
+**[Open the game HTML file in this folder](index.html)**
+
 *The online game requires GitHub Pages to be enabled and deployed.*
 
 ## Goal
@@ -22,7 +24,7 @@ Play a monster-themed Guess Who game against a computer-selected secret characte
 
 ### 1. Invent your monsters (5–10 minutes)
 
-Ask your child: *What kinds of monsters should we have?* Pick a theme (space monsters, silly pets, underwater creatures), invent **6–8 monsters** to start, and decide on distinguishing traits: color, number of eyes, horns, wings, spots, or hats. Give them names. A smaller board is easier to test; you can expand to 16 later.
+Ask your child: *What kinds of monsters should we have?* Pick a theme (space monsters, silly pets, underwater creatures), invent **16 monsters** to start, and decide on distinguishing traits: color, number of eyes, horns, wings, spots, or hats. Give them names. Aim for a 4 × 4 board with 16 distinct monsters.
 
 **AI prompt to try together:**
 
@@ -36,7 +38,7 @@ Use an AI coding assistant that can produce a self-contained HTML file. You can 
 
 **AI prompt:**
 
-> Create a child-friendly, single-file HTML Guess Who game using our 8 monsters and their attributes. Show a colorful card for each monster, let the computer secretly choose one, answer typed yes/no questions about the monsters' features, let us cross out cards, and let us guess the secret monster. Include a New Game button. Use large buttons and simple words for a 5-year-old. Explain how a parent can save and open the HTML file. Keep the answers based on the monster attributes, not invented by AI during play.
+> Create a child-friendly, single-file HTML Guess Who game using our 16 monsters and their attributes. Show a colorful card for each monster, let the computer secretly choose one, answer typed yes/no questions about the monsters' features, let us cross out cards, and let us guess the secret monster. Include a New Game button. Use large buttons and simple words for a 5-year-old. Explain how a parent can save and open the HTML file. Keep the answers based on the monster attributes, not invented by AI during play.
 
 The parent can save the code as `index.html` and open it in a browser. **If the AI produces something broken, that's part of the exercise.** Describe what happened and ask it to fix the problem.
 
@@ -73,7 +75,7 @@ When something fails, tell the AI **what you did, what happened, and what you ex
 
 ### 5. Play, reflect, and improve
 
-Now play the game you made. After a round, ask your child: *What did we tell AI to make? What did it get right? What did we have to correct? What should we add next?* Try adding more monsters or voice questions in a second session.
+Now play the game you made. After a round, ask your child: *What did we tell AI to make? What did it get right? What did we have to correct? What should we add next?* Try adding voice questions, new monster attributes, or different themes in a second session.
 
 **Parent tip:** Let the child make the choices and speak the instructions; the adult handles typing, file saving, and browser permissions. Avoid entering personal information or uploading photos of children. Use drawings instead.
 
