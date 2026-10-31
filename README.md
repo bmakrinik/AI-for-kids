@@ -11,6 +11,10 @@ The aim is not to teach kids to use AI instead of thinking. It's to help them di
 | 1 | [Magical Drawing World](task-01-magical-drawing/README.md) | 20–40 min | Prompting, iteration, creative control |
 | 2 | [Monster Guess Who](task-02-monster-guess-who/README.md) | 15–30 min | Asking questions, classification, reasoning, speech interaction |
 
+**[Play Monster Guess Who in your browser](https://bmakrinik.github.io/AI-for-kids/task-02-monster-guess-who/)**
+
+*Requires GitHub Pages to be enabled and deployed.*
+
 ## Getting started
 
 Start with Task 1 if your child enjoys drawing, or Task 2 if they enjoy games. Each task has materials, exact steps, sample prompts, troubleshooting, and conversation starters.
