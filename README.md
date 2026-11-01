@@ -10,6 +10,7 @@ The aim is not to teach kids to use AI instead of thinking. It's to help them di
 |---|---|---|---|
 | 1 | [Magical Drawing World](task-01-magical-drawing/README.md) | 20–40 min | Prompting, iteration, creative control |
 | 2 | [Monster Guess Who](task-02-monster-guess-who/README.md) | 15–30 min | Asking questions, classification, reasoning, speech interaction |
+| 3 | [Monster Platform Adventure](task-03-monster-platform-game/README.md) | 45–90 min | Prompting, game design, visual iteration, debugging |
 
 ## Getting started
 
